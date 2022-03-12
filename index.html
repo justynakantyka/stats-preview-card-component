@@ -7,7 +7,7 @@
   <title>Frontend Mentor | Stats preview card component</title>
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
 
   <!-- CSS Stylesheets -->
@@ -19,21 +19,30 @@
 </head>
 <body>
   <div class="container">
-    <div class="row">
-      <div class="col">
-        <div class="card">
-          <div class="card-body">
-            <h1 class="card-title">Get <span class="insights">insights</span> that help your business grow.</h1>
-            <p class="card-text">Discover the benefits of data analytics and make better decisions regarding revenue, customer
-            experience, and overall efficiency.</p>
+    <div class="row g-0">
+      <div class="col-6">
+        <div class="description">
+          <h1>Get <span class="insights">insights</span> that help your business grow.</h1>
+          <p>Discover the benefits of data analytics and make better decisions regarding revenue, customer
+          experience, and overall efficiency.</p>
 
-            10k+ companies
-            314 templates
-            12m+ queries
+          <div class="row">
+            <div class="col-4">
+              <div class="stat_numbers">10k+</div>
+              <div class="stat_headers">companies</div>
+            </div>
+            <div class="col-4">
+              <div class="stat_numbers">314</div>
+              <div class="stat_headers">templates</div>
+            </div>
+            <div class="col-4">
+              <div class="stat_numbers">12M+</div>
+              <div class="stat_headers">queries</div>
+            </div>
           </div>
         </div>
       </div>
-      <div class="col">
+      <div class="col-6">
         <img class="header-img" src="images/image-header-desktop.jpg" alt="img-header-desktop">
       </div>
     </div>
