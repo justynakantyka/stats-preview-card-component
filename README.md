@@ -34,4 +34,3 @@ Users should be able to:
 ### Built with
 
 - Bootstrap grid
-- Mobile-first workflow
