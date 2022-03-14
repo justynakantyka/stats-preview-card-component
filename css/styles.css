@@ -28,7 +28,7 @@ p {
   border-radius: 0.3rem;
   margin: 4rem 8rem;
   padding: 0;
-  width: 80%;
+  width: 78%;
 }
 
 .description {
@@ -55,13 +55,16 @@ p {
 
 .img-column {
   background-color: hsl(277, 64%, 61%);
+  border-radius: 0.3rem;
 }
 
 .header-img {
-  opacity: 0.55;
+  border-radius: 0.3rem;
+  filter: brightness(60%);
   float: right;
   max-width:100%;
   object-fit: contain;
+  opacity: 0.55;
 }
 
 .attribution {
