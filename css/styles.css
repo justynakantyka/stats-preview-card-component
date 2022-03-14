@@ -60,6 +60,8 @@ p {
 .header-img {
   opacity: 0.55;
   float: right;
+  max-width:100%;
+  object-fit: contain;
 }
 
 .attribution {
