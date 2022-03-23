@@ -39,7 +39,7 @@ p {
   border-radius: 0.3rem;
   display: inline-block;
   filter: brightness(60%);
-  max-width:100%;
+  width:100%;
   object-fit: contain;
   opacity: 0.55;
 }
@@ -55,7 +55,7 @@ p {
 
 .stats {
   text-align: center;
-  padding-top: 3rem;
+  padding-top: 2rem;
 }
 
 .stat_headers {
@@ -73,8 +73,38 @@ p {
 
 .attribution {
   font-size: 11px; text-align: center;
+  margin-top: 2rem;
 }
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media (min-width: 992px) {
+  .container {
+    margin: 5rem 10rem 5rem;
+    width: 75%;
+  }
+
+  .description {
+    text-align: left;
+    padding: 4.5rem 4.5rem 2rem;
+  }
+
+  .img-box {
+    float: right;
+    max-width: 50%;
+    margin-left: 4rem;
+  }
+
+  .header-img {
+    display: inline-block;
+    float: right;
+    max-height: 100%;
+  }
+
+  .stats {
+    padding-top: 2rem;
+    text-align: left;
+  }
 }
