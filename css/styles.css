@@ -6,9 +6,9 @@ body {
 
 h1 {
   color: hsl(0, 0%, 100%);
-  font-size: 2rem;
+  font-size: 1.7rem;
   font-weight: 700;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 h5 {
@@ -83,7 +83,7 @@ p {
 @media (min-width: 992px) {
   .container {
     margin: 5rem 10rem 5rem;
-    width: 75%;
+    width: 70%;
     height: 100%;
   }
 
@@ -96,12 +96,12 @@ p {
     float: right;
     margin-left: 4rem;
     max-width: 50%;
-    max-height: 390px;
+    max-height: 363px;
   }
 
   .header-img {
     float: right;
-    max-height: 390px;
+    max-height: 363px;
   }
 
   .stats {
