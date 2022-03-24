@@ -22,9 +22,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
+Mobile device: \
+![](./screenshots/mobile375screenshot.jpg)
 
-![](./screenshot.jpg)
-
+Desktop:
+![](./screenshots/desktopscreenshot.jpg)
 ### Links
 
 - Solution URL:
