@@ -10,8 +10,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
-- [Author](#author)
 
 ## Overview
 
@@ -29,7 +27,7 @@ Desktop:
 ![](./screenshots/desktopscreenshot.jpg)
 ### Links
 
-- Solution URL:
+- Solution URL: https://justynakantyka.github.io/stats-preview-card-component/
 
 ## My process
 
