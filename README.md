@@ -27,7 +27,7 @@ Desktop:
 ![](./screenshots/desktopscreenshot.jpg)
 ### Links
 
-- Solution URL: https://justynakantyka.github.io/stats-preview-card-component/
+- Live Site URL: https://justynakantyka.github.io/stats-preview-card-component/
 
 ## My process
 
