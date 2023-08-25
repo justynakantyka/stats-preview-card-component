@@ -2,7 +2,7 @@
 
 This repository contains the solution for the Stats preview card component challenge from Frontend Mentor. The challenge involves creating a responsive Stats preview card component based on a provided design. The project showcases HTML, CSS. \
 \
-<b>Live Site URL:</b> [https://justynakantyka.github.io/loopstudios-landing-page/](https://justynakantyka.github.io/stats-preview-card-component/) \
+<b>Live Site URL:</b> [https://justynakantyka.github.io/stats-preview-card-component/](https://justynakantyka.github.io/stats-preview-card-component/) \
 This is a solution to the: [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
 ## Table of contents
